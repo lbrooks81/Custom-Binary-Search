@@ -1,0 +1,15 @@
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\bin\Debug\net8.0\CustomBinarySearch.exe
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\bin\Debug\net8.0\CustomBinarySearch.deps.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\bin\Debug\net8.0\CustomBinarySearch.runtimeconfig.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\bin\Debug\net8.0\CustomBinarySearch.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\bin\Debug\net8.0\CustomBinarySearch.pdb
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.AssemblyInfoInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.AssemblyInfo.cs
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.sourcelink.json
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\refint\CustomBinarySearch.dll
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.pdb
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\CustomBinarySearch.genruntimeconfig.cache
+C:\Users\Glog\Documents\GitHub\it230-Data-Structures\it230-homework2custombinarysearch-lbrooks81\CustomBinarySearch\obj\Debug\net8.0\ref\CustomBinarySearch.dll
